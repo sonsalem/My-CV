@@ -56,10 +56,9 @@ img {
 }
 ::-webkit-scrollbar-track {
     background-color: #fff;
-    box-shadow: 0 0 3px .5px rgb(118, 118, 118) inset;
 }
 ::-webkit-scrollbar-thumb {
-    background-image: linear-gradient(to bottom , var(--primary), var(--second-color) 150%);
+    background-image: linear-gradient(to bottom , #695aa6, transparent 150%);
 }
 /* End Global Ruls */
 /* Start Nav */
